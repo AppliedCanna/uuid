@@ -1,3 +1,3 @@
-module github.com/AppliedCanna/uuid/v5
+module github.com/AppliedCanna/uuid
 
-go 1.19
+go 1.20
